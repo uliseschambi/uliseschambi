@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Ulises, I have a wide range of experience in IT, I'm new to this exciting world of programming.
 
 <!--
 **uliseschambi/uliseschambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
